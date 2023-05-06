@@ -1,4 +1,4 @@
-## Mukri Setiawan Baguna :love_letter: _setiawanmukri@gmail.com*
+## Mukri Setiawan Baguna :love_letter: _setiawanmukri@gmail.com_
 
 #### Please see the result of this app [Here](https://reactjs-typescript-search-user-github.netlify.app/)
 
